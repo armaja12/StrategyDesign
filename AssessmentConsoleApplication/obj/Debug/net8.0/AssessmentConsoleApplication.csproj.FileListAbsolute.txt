@@ -1,0 +1,14 @@
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\bin\Debug\net8.0\AssessmentConsoleApplication.exe
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\bin\Debug\net8.0\AssessmentConsoleApplication.deps.json
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\bin\Debug\net8.0\AssessmentConsoleApplication.runtimeconfig.json
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\bin\Debug\net8.0\AssessmentConsoleApplication.dll
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\bin\Debug\net8.0\AssessmentConsoleApplication.pdb
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\obj\Debug\net8.0\AssessmentConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\obj\Debug\net8.0\AssessmentConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\obj\Debug\net8.0\AssessmentConsoleApplication.AssemblyInfo.cs
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\obj\Debug\net8.0\AssessmentConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\obj\Debug\net8.0\AssessmentConsoleApplication.dll
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\obj\Debug\net8.0\refint\AssessmentConsoleApplication.dll
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\obj\Debug\net8.0\AssessmentConsoleApplication.pdb
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\obj\Debug\net8.0\AssessmentConsoleApplication.genruntimeconfig.cache
+C:\Users\janine.l.arma\source\repos\AssessmentConsoleApplication\AssessmentConsoleApplication\obj\Debug\net8.0\ref\AssessmentConsoleApplication.dll
